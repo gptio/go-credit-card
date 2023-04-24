@@ -1,4 +1,4 @@
-module github.com/durango/go-credit-card
+module github.com/gptio/go-credit-card
 
 go 1.17
 
